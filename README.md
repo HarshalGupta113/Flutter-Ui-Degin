@@ -3,6 +3,6 @@
 This project is made using flutter framework.
 There are customable widget made.
 
-![Ui desgin 1 (Small)](https://user-images.githubusercontent.com/91480608/200725603-693e162d-bb67-4d74-81b9-6eb0f5762e6f.png)
-![Ui design 2 (Small)](https://user-images.githubusercontent.com/91480608/200725784-9babe3ea-9fa2-45d5-a491-3b2e5ce11e70.png)
-![Ui degin 3 (Small)](https://user-images.githubusercontent.com/91480608/200725794-c7a12851-e589-461f-9b5e-8209018c03d3.PNG)
+![Ui degin 3 (Phone)](https://user-images.githubusercontent.com/91480608/200726070-84a2206b-b609-42b9-a187-7ce0bc2c12ac.PNG)
+![Ui design 2 (Phone)](https://user-images.githubusercontent.com/91480608/200726078-b544cb8a-5ed4-4921-9e91-e1059d17ce1b.png)
+![Ui desgin 1 (Phone)](https://user-images.githubusercontent.com/91480608/200726083-f40673b5-d862-4db1-aa57-efbc32187728.png)

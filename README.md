@@ -1,6 +1,7 @@
-# UI-Desgin 
+# UI-Design 
 
 This project is made using flutter framework.
+
 There are customable widget made.
 
 ![Ui desgin 1 (Phone)](https://user-images.githubusercontent.com/91480608/200726083-f40673b5-d862-4db1-aa57-efbc32187728.png)
